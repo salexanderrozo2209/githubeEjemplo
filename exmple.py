@@ -10,6 +10,6 @@ mayor = numeros[0]
 # Recorrer y comparar
 for numero in numeros:
     if numero > mayor:
-        mayor = numero
-# Segundo  Cambioiooooooooooooooooooooooooooo
+        mayor = numero;
+        #sdadwafnaokwfbaowibf  3cambio
 print("Mayor:", numero)
