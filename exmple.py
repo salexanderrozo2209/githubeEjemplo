@@ -12,5 +12,7 @@ for numero in numeros:
     if numero > mayor:
         mayor = numero;
         #daowjdpoawhfpioakbwfokabwfi
+        #fawlmfpawfoabpwfiw
+        #flawñldnapiwfnawf
         #sdadwafnaokwfbaowibf  3cambio
 print("Mayor:", numero)
